@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copy of a letter written by Mr. Thomas Parker, pastor of the church of Newbury in New-England, to his sister, Mrs Elizabeth Avery, sometimes of Newbury in the county of Berks, touching sundry opinions by her professed and maintained. Novemb. 22. 1649. imprimatur John Downame.</title>
+            <author>Parker, Thomas, 1595-1677.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91430</idno>
+            <idno type="STC">Wing P475</idno>
+            <idno type="STC">Thomason E584_3</idno>
+            <idno type="STC">ESTC R206220</idno>
+            <idno type="EEBO-CITATION">99865394</idno>
+            <idno type="PROQUEST">99865394</idno>
+            <idno type="VID">117634</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91430)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117634)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 89:E584[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copy of a letter written by Mr. Thomas Parker, pastor of the church of Newbury in New-England, to his sister, Mrs Elizabeth Avery, sometimes of Newbury in the county of Berks, touching sundry opinions by her professed and maintained. Novemb. 22. 1649. imprimatur John Downame.</title>
+                  <author>Parker, Thomas, 1595-1677.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field for Edmund Paxton, at Pauls-Chain, over aginast the Castle Tavern, near the Doctors Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650. [i.e. 1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nou. 29 1649".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Puritans --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+               <term>Massachusetts --  Church history --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117634:1" rendition="simple:additions"/>
+            <p>The COPY of a LETTER Written by Mr. <hi>Thomas Parker,</hi> Paſtor of the Church of <hi>Newbury</hi> in NEW-ENGLAND, TO His Siſter, M<hi rend="sup">rs</hi> 
+               <hi>Elizabeth Avery,</hi> Sometimes of <hi>Newbury</hi> in the County of BERKS, Touching ſundry OPINIONS BY HER Profeſſed and Maintained.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Novemb.</hi> 22. 1649.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>Imprimatur</hi>
+                        </p>
+                        <closer>
+                           <signed>JOHN DOWNAME.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Field</hi> for <hi>Edmund Paxton,</hi> at <hi>Pauls-Chain,</hi> over againſt the <hi>Caſtle</hi> Tavern, near the <hi>Doctors Commons.</hi> 1650.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:117634:2"/>
+            <head>The Epiſtle to the Reader.</head>
+            <p>BEſides this enſuing Letter, I have alſo received other Letters to my dear Friend M<hi rend="sup">rs</hi> 
+               <hi>Avery</hi> (which for ſundry Reaſons are not Printed) from Mr. <hi>Cotton,</hi> Mr. <hi>VVilſon,</hi> and Mr. <hi>Noyes;</hi> all which bear the like aſpect as this Letter doth, in oppoſition to her Opinions herein Refuted; That (if ſo be the will of God) ſhe may be reduced to her former Faith and Pro<g ref="char:EOLhyphen"/>feſsion, from which ſhe is ſo ſtrangely turned away. I forbear to acquaint the Reader with the tranſcendent worth of the Reverend Author of this Letter; partly, becauſe I know it will be unac<g ref="char:EOLhyphen"/>ceptable to him, and unneceſſary, in re<g ref="char:EOLhyphen"/>ſpect
+<pb facs="tcp:117634:3"/>of them that have any knowledge of him; and partly, becauſe I am un<g ref="char:EOLhyphen"/>willing to follow the Devils method in theſe days of Error, who by raiſing an admiration of mens perſons in the hearts of the ſimple, diſpoſeth them to a preſent compliance with their perni<g ref="char:EOLhyphen"/>cious Doctrines: Such flattery is be<g ref="char:EOLhyphen"/>low the gravity of a ſpirit eſtabliſhed in the Faith of Chriſt, whoſe Genius it is, not to glory in Man, foraſmuch as <hi>whether Paul, or Apollo, or Ce<g ref="char:EOLhyphen"/>phas, all is yours,</hi> 1 Cor. 3.21,22.</p>
+            <closer>
+               <signed>Benjamin Woodbridge.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:117634:3"/>
+            <head>To my very loving Siſter, M<hi rend="sup">rs</hi> 
+               <hi>Elizabeth Avery.</hi>
+            </head>
+            <p>
+               <hi>LOving Siſter,</hi> for yet you are my Siſter ac<g ref="char:EOLhyphen"/>cording to the fleſh, and I am not yet with<g ref="char:EOLhyphen"/>out hope, but that you are my Siſter accord<g ref="char:EOLhyphen"/>ing to the Spirit; for it is poſſible, that God may bring you back again from your Heretical Opini<g ref="char:EOLhyphen"/>ons. The Lord of his mercy grant, That what I ſhall now write, may be acceptable unto you, and may be effectually prevalent for your ſeaſonable re<g ref="char:EOLhyphen"/>duction, that you may not dye away in this lament<g ref="char:EOLhyphen"/>able Belief. You will not come to Ordinances, nor willingly joyn in private Prayer with your own Husband, but onely to condeſcend to his infirmities; for you ſay you are above Ordinances, above the Word and Sacraments, yea above the Blood of Chriſt himſelf, living as a glorified Saint, and taught immediately by the Spirit. Who would have thought or dreamed, that ſuch expreſſions ſhould have ever come out of the mouth of Siſter <hi>Avery?</hi> What will you make your ſelf to be? What, higher then <hi>Moſes</hi> and any of the Prophets, above the holy Apoſtles and Primitive Saints, which all were under Ordinances? What, higher then <hi>Chriſt</hi> himſelf, who ſubjected himſelf to Ordinan<g ref="char:EOLhyphen"/>ces while he was upon the Earth? <note place="margin">Acts 2.</note> Did not Chriſt, when he aſcended up on high, inſtitute Ordinances
+<pb n="6" facs="tcp:117634:4"/>
+for this end, that by them his Saints and Churches, and all of them without exception, ſhould be build<g ref="char:EOLhyphen"/>ed up until his ſecond coming? <note place="margin">Eph. 4.</note> Surely then, if you will not be at Ordinances, publique and pri<g ref="char:EOLhyphen"/>vate, you forſake the way of Chriſt, and with<g ref="char:EOLhyphen"/>draw your ſelf from the way and means of Edifi<g ref="char:EOLhyphen"/>cation by him, and Communion with him by the Spirit: And what maner of Chriſtian will you make your ſelf to be? For all the Saints and Churches, from the Apoſtles until this time, have conſtantly ſubjected themſelves to the Ordinances of Chriſt, as Hiſtories do ſhew, and the Propheſies in the <hi>Re<g ref="char:EOLhyphen"/>velation.</hi> What can you ſay, to prove that Chriſt will bring forth Chriſtians in this age, differing from all that went before? You go the very ready way to exclude your ſelf from the ſheepfold, and from among the ſheep of Chriſt, when you do exclude your ſelf from Ordinances, and from the com<g ref="char:EOLhyphen"/>mon way and path of all Saints; yea, and the glo<g ref="char:EOLhyphen"/>rious Church of <hi>New-Jeruſalem,</hi> to be raiſed up in the laſt time, is ſaid to be builded upon the Foun<g ref="char:EOLhyphen"/>dation of the twelve Apoſtles, namely, upon their Doctrine, and in way of the holy Ordinances in<g ref="char:EOLhyphen"/>ſtituted by them. You cannot poſſibly ſay, That you are above the glorious Church of <hi>New-Jeru<g ref="char:EOLhyphen"/>ſalem;</hi> whoſe glory here, is the height of grace up<g ref="char:EOLhyphen"/>on the earth. But it is marvellous that you are not afraid to ſay, That <hi>you have more of the Spirit then the Apoſtles:</hi> Be not offended that I tell you, This is a horrible deluſion of Satan, and <hi>Luciferian</hi> pride: Why do you not then dictate Oracles immediately from Heaven? Why do you not infallibly Prophe<g ref="char:EOLhyphen"/>ſie
+<pb n="7" facs="tcp:117634:4"/>
+of the Times? Why do you not work Miracles as they did? Did any of the holy Martyrs ever ſay ſo, or think and do as you? The time was when you honored the memory of them, and could hum<g ref="char:EOLhyphen"/>ble your ſelf to their imitation. But that is above the reſt, That <hi>you are above the Blood of Chriſt:</hi> Surely Satan, the cunning hunter of ſouls, doth la<g ref="char:EOLhyphen"/>bor to divide you from Chriſt, and from his Blood, that you ſhould have no ſhare at all in him, when he moveth you to conceive, and utter ſuch things: Saints are never above the Blood of Chriſt; they are kept and maintained by his Blood, even in their glorified eſtate, as well as thereby promoted there<g ref="char:EOLhyphen"/>unto: And if the Blood of Chriſt doth not keep you here on earth, and waſh you daily, and further you on in the way of all Grace, and in oppoſition to Sin and Satan, you ſhall certainly never enjoy his preſence and communion in the world to come. To put the Blood of Chriſt out of the honor of employment, and not to depend upon it, is a fearful way to be utterly rejected: Chriſt of his mercy pre<g ref="char:EOLhyphen"/>ſerve you, dear Siſter. But I may ſay with <hi>Iſaiah, Stand and wonder, they are drunken, but not with wine;</hi> Is any ſuch language to be found in any cor<g ref="char:EOLhyphen"/>ner of the Scripture? or did any of the Apoſtles ever ſay they were above the Blood of Chriſt? would they not have defied ſuch a ſpeech?</p>
+            <p>But unto all this you adde, That <hi>Chriſt hath no humane body;</hi> and that <hi>he ſhall not appear to the world any more in a viſible maner;</hi> that <hi>his ſecond coming is his coming in his Saints, whereby they are taken up into the nature of God, and are as truly Chriſt, as
+<pb n="8" facs="tcp:117634:5"/>
+Chriſt himſelf, and partake in the fulneſs of the Godhead no leſs then Chriſt;</hi> yea, <hi>that they are one with God, their very Being is God:</hi> Dreadful to think upon, much more to ſpeak, or write, or medi<g ref="char:EOLhyphen"/>tate upon; Who hath bewitched you, that you ſhould fall into ſuch Errors? Hardly any in the world, which have known you in former time, would have thought or dreamed, that you ſhould ever have faln ſo deeply from your Faith: If this be your New Light, God preſerve me, and all good people from it. But you will ſay, <hi>I am in darkneſs, and you in light, and that I am no meet Judge;</hi> The time was you would not ſo ſay: But if you queſtion it now, how ſhall it be tryed? Is not the Scripture to be our Rule? <hi>To the Law and to the Teſtimony, if they ſpeak not according to the word, it is becauſe there is no light in them,</hi> Iſa. 8.20. And doth not all Scri<g ref="char:EOLhyphen"/>pture plainly affirm, and the Churches, and Mar<g ref="char:EOLhyphen"/>tyrs, and Witneſſes of Truth all along affirm, That Chriſt hath a true humane body? He could not pro<g ref="char:EOLhyphen"/>perly ariſe nor aſcend, but in his fleſh; and is he not for ever <hi>God revealed in the fleſh?</hi> 1 Tim. 3.16. and after his Glorification, is he not called <note place="margin">1 Tim. 2.5.</note>
+               <hi>The man Chriſt Jeſus?</hi> and the <note place="margin">Rev. 13.5,6.</note>
+               <hi>Tabernacle of God,</hi> by reaſon of the fleſh, <hi>Rev.</hi> 13.5,6. and <hi>in whom the Godhead is ſaid to dwell bodily?</hi> for the ſame cauſe, <hi>Col.</hi> 1. is he not ſaid to have <hi>a life given him for ever and ever?</hi> Iſa. 53.10. Pſal. 21.4. Rev. 1.18. And if he had not carried his real body into Heaven, he would have left it in the Grave behinde, he would not have eaten and drunken in it, for to ſhew the reality of his body, and that he was no ſpirit, as the Diſciples
+<pb n="9" facs="tcp:117634:5"/>
+imagined; he would not have offered his body to be handled, the print of the nails to be felt, for the proof of the truth, and reality thereof: And that he ſhall viſibly appear again unto the world, it ap<g ref="char:EOLhyphen"/>peareth, Becauſe the ſame body he carried up, with the ſame he muſt return again to Judgement; <note place="margin">Pſa. 110.1. Acts 3.</note> and therefore it is ſaid, <hi>Acts</hi> 17.31. <hi>He hath appointed a day wherein he will judge the world, by that</hi> MAN <hi>whom he hath ordained.</hi> It is a ſick and irkſom la<g ref="char:EOLhyphen"/>bor, to multiply places about a point ſo clear. But what Scripture or Reaſon hath ſhewed you, That <hi>his ſecond coming is his coming in his Saints,</hi> a my<g ref="char:EOLhyphen"/>ſtical coming: The plain words of Scripture are ever againſt you, neither can they be applied other<g ref="char:EOLhyphen"/>wiſe, then by making them a noſe of wax; <hi>This Je<g ref="char:EOLhyphen"/>ſus whom you have ſeen going into heaven, ſhall ſo come as ye have ſeen,</hi> Acts 1. <hi>I ſaw a white throne, and one ſate thereon,</hi> Rev. 20.11. <hi>Behold, he cometh with clouds,</hi> Rev. 1. Matth. 24. &amp; 25. If you turn theſe things into Allegories, nothing can be certain. And, would not Chriſt and his Apoſtles have told us ſo in ſome place or other, if this coming were onely figurative? adde, That if this be figurative, other things annexed are alſo figurative, and nothing plain; and this were to make a chaos and confuſion of the Scriptures: It grieveth me to ſpend time, when matters are ſo evident. Of like nature is that which you groſly hold, that <hi>There is no Reſurrection of the body;</hi> Read 1 <hi>Cor.</hi> 15. <hi>Dan.</hi> 12.2. <hi>Rev.</hi> 20.12,13,14. It irketh me to write in ſuch caſes.</p>
+            <p>Whereas you ſay, <hi>The Saints are Chriſt, one with God, their Being God;</hi> What godly ear can hear
+<pb n="10" facs="tcp:117634:6"/>
+ſuch things, without defiance and abomination: If Saints are ſo, if you are ſo, then are you without ſin, as Chriſt, Omnipotent, Omniſcient, Infinite, to be worſhipped and adored as God and Chriſt is. I will ſpit at this, and ſay no more.</p>
+            <p>I underſtand alſo, that you can determine of the holy Scriptures, that <hi>much of them is written with a humane ſpirit,</hi> can take or take not for Scripture, or meaning of Scripture, onely by the Rule of an apprehenſion and Revelation of the Spirit, which you ſuppoſe your ſelf to be guided by, and to have more of then the Apoſtles had. The ſame Spi<g ref="char:EOLhyphen"/>rit which told you, that <hi>much of the Scripture was written with a humane Spirit,</hi> may haply tell you at another time, that <hi>all the Scripture is written with a humane Spirit, that there is no certainty therein;</hi> yield to one, yield to all: But we know that the Pro<g ref="char:EOLhyphen"/>phets and Apoſtles did all write, as guided by the Spirit of God, 2 <hi>Pet.</hi> 1. <hi>ult.</hi> 2 <hi>Pet.</hi> 3. <hi>Joh.</hi> 17. <hi>Rev.</hi> 21. <hi>He that receiveth you, receiveth me,</hi> John 13.</p>
+            <p>Now over and above all this, there are other hor<g ref="char:EOLhyphen"/>rid things in your Book, which I have not ſeen, and Satan hath been let looſe to ſhut you up, and to im<g ref="char:EOLhyphen"/>priſon you in your monſtrous Hereſies, by gates and bars, and to fetter and chain you up, that all means might be fruſtrate, whereby we might have hope to bring you forth: For if any thing from Scripture or Reaſon is brought againſt your Opinions, which you cannot anſwer, you can ſhift it off with this, <hi>That you do not ſo apprehend;</hi> thinking your appre<g ref="char:EOLhyphen"/>henſion to be infallible, and above Reaſon or Scri<g ref="char:EOLhyphen"/>pture: How came you by ſuch an apprehenſion?
+<pb n="11" facs="tcp:117634:6"/>
+By what means came you to know that it is infalli<g ref="char:EOLhyphen"/>bly directed, or may you not be praefident, in think<g ref="char:EOLhyphen"/>ing it to be ſo, when it is not? But ſurely, no Saint or Martyr ſince the Apoſtles, ever challenged to themſelves ſuch an apprehenſion, for ought I finde: And we are all commanded to regulate our appre<g ref="char:EOLhyphen"/>henſions by the Scripture, and not to judge the Scriptures by ungrounded apprehenſions: <hi>Thy word is a light unto my paths,</hi> Pſal. 119. 2 Pet. 2. Mat. 4. for otherwiſe any Heretique may juſtifie himſelf by his apprehenſion, and there would be no way to confute Error. The Apoſtles themſelves, though infallibly directed, yet would ſubject their Doctrine to the tryal of the Scripture, as in the <hi>Bereans,</hi> and prove it unto others by the Scripture, <hi>Rom.</hi> 9. <hi>Gal.</hi> 4. Furthermore, in theſe days we cannot tell, That our apprehenſions are guided by the Spirit, but by the light of Scripture: You will ſay, <hi>It is ſo with you, but how will you prove it to your ſelf or others? why may it not be the Spirit of Satan, which you think to be the Spirit of God?</hi> I dare be bold to ſay, It is the Spirit of Satan, and not of God, that ſo di<g ref="char:EOLhyphen"/>recteth apprehenſions, as not under the direction of the Word.</p>
+            <p>Dear Siſter, with whom I have had ſweet commu<g ref="char:EOLhyphen"/>nion in the ways of God, let us not now part at laſt, divided in Faith, Eternally divided: Were you not in the Faith before you fell into theſe Opinions? and did you not then write unto me, that you had full Aſſurance? Is all then loſt, and nothing that was before, that you have changed your Faith and your Religion? Is the Doctrine of your Reverend
+<pb n="12" facs="tcp:117634:7"/>
+Father, and of Dr. <hi>Twiſſe,</hi> and the Doctrine of the holy Martyrs, now at laſt diſcovered to be Error, whom the <hi>Apocalyps</hi> doth expreſly ſtile the <hi>Witneſ<g ref="char:EOLhyphen"/>ſes of Truth?</hi> Whither will you run, dear Siſter, from your Parents, Friends, Church, Chriſt, God, and life Eternal? Have you no more ſtrength, but at the firſt aſſault to yield the Bucklers, and to give over your Faith, ſo long profeſſed, at the firſt puſh? If you had not Reaſon enough your ſelf, yet why did you not firſt enquire of thoſe that might have holpen you? I would rather a hundred times you had periſhed by the Sword, then have thus faln, diſho<g ref="char:EOLhyphen"/>nored God and your Profeſſion, and weakened the people of the Lord, and ſhamed all your Friends, and laid up treaſures of Correction for your Poſte<g ref="char:EOLhyphen"/>rity, and put your ſelf in a ſuſpitious way, at leaſt, of loſing the heavenly Inheritance; Let me tell you plainly, I doubt there was ſome grievous ſin at bot<g ref="char:EOLhyphen"/>tom, as the Pride of Women, or Spiritual Pride, or ſomething elſe, that God hath ſuffered you ſo hor<g ref="char:EOLhyphen"/>ribly to fall away: Search your ſelf, pray, repent, humble your ſelf, and turn betime. The inſtruments I know not who they were; but I dare ſay, That in this particular they were meſſengers of Satan; they might pretend to you ſingular Sanctity, and deceive you, by carrying themſelves as if they dropped down from Heaven, and came out of the boſom of God: But all is not Gold that gliſtereth; both you and they, by reaſon of joys and raviſhments concei<g ref="char:EOLhyphen"/>ved in the Spirit, may think your ſelves to be in the arms of God, and yet at laſt you may finde your ſelves in the very arms of the Devil, who knoweth
+<pb n="13" facs="tcp:117634:7"/>
+how <hi>to transform himſelf into an Angel of light,</hi> being cunning to deceive. I could give Examples to declare this; I ſhould rather rejoyce to hear, that you were a mourner, poor in Spirit, and hungring and thirſting after Righteouſneſs, ſo ſhould I know you to be in the very ready way to the Kingdom of Glory, <hi>Matth.</hi> 5. This is the ſtate of Chriſtians here on earth, even thoſe that have the moſt Aſſu<g ref="char:EOLhyphen"/>rance: The more Grace, the better they think of others, the meaner of themſelves; abaſing them<g ref="char:EOLhyphen"/>ſelves for the remnants of ſin they finde behinde, and mourning after more holines in way of mortificatio<g ref="char:cmbAbbrStroke">̄</g>. They which are not in an humbling way, are not in the way of Heaven. O Siſter! you ſeem to be lifted up, as if you were a goddeſs, and as if all ſhould bow unto you, as ſingularly beloved above others, yea as Chriſt himſelf, and as one with God: What pride was ever to be matched with your pride? What will be your end, if you humble not your ſelf betime? Your ſtate requireth ſharp and haſty Remedies; bear with me therefore, that I ſhar<g ref="char:EOLhyphen"/>pen my ſtile, to pull you out of the fire, wherein you are already flaming.</p>
+            <p>Your affectation and writing of Aſſurance did not formerly ſo well ſavor, and your printing of a Book, beyond the cuſtom of your Sex, doth rankly ſmell; but the exaltation of your ſelf in the way of your Opinions, is above all: God will never tolerate pride in his beloved ones be ſure, and therefore I fear ſome afterclaps. Hear me, dear Siſter, renounce, caſt off the Maſters and Fomentors of your Hereſies, never re<g ref="char:EOLhyphen"/>ceive their Letters any more, never anſwer them,
+<pb n="14" facs="tcp:117634:8"/>
+never admit them unto houſe, ſend unto them, That you will never have to do with them any more: Think not that you are the better for your joys, or more directed then others are; but onely ſo far as you finde your heart to be humbly upon God in Chriſt, as the chiefeſt thing, in the way of his Truth, and in the way of all his Commandments, accord<g ref="char:EOLhyphen"/>ing to the ſincerity of Evangelical endeavor. Your heart may be upon your own advancement above others, and not on God, unleſs you look unto it. Your new Maſters and Companions in Hereſie, ſpeak fairly to you, and flatter you, and advance, and ſet you up on high, &amp; this is pleaſing to the fleſh; and when you are entangled in their Net, you are un<g ref="char:EOLhyphen"/>willing to diſpleaſe them, they are as cloſe unto you as the Ivy to the wall, and you cannot eaſily be ſe<g ref="char:EOLhyphen"/>perated. <hi>A man that flattereth his neighbor, layeth a ſnare for his feet,</hi> Prov. 29.5. O Siſter, fly far from the houſe and corner of theſe men and wo<g ref="char:EOLhyphen"/>men, that lie in wait for your poor ſoul! Do you not plainly ſee, that Satan is looſed in theſe times, and that there are many Hereſies ſcattered amongſt Profeſſors, which you your ſelf do diſallow? why do you not ſuſpect your ſelf? I have endeavored, from the love of you, and from the deſire of the welfare of your ſoul, to put my one eye unto the work, and to write theſe lines unto you; the Lord God onely can give ſucceſs: And I pray our Lord Jeſus Chriſt, That you may be turned, otherwiſe you ſeem to be in a ſuſpitious way, and in great dan<g ref="char:EOLhyphen"/>ger to be a loſt woman, a loſt Siſter, and loſt eter<g ref="char:EOLhyphen"/>nally.<note n="(a)" place="margin">Here (as yet appeareth by his Letter) he had conclu<g ref="char:EOLhyphen"/>ded; but upon ſecond thoughts pro<g ref="char:EOLhyphen"/>ceeds.</note>
+            </p>
+            <p>
+               <pb n="15" facs="tcp:117634:8"/>
+I cannot tell how to make an end, it is a buſineſs of ſuch importance that I am about, and your Spi<g ref="char:EOLhyphen"/>ritual welfare is ſo much deſired. I cannot yet but comfortably hope, That God will bring you back again unto the Truth; I will therefore anſwer ſome Objections to facilitate your return.</p>
+            <p>Firſt, you may think, that <hi>It was not likely that God ſhould caſt you into Error all this while, ſeeing you had immediately before ſo much communion with him, and love unto him.</hi> But had not your Father and others as much love to God as you, and as much experience of his goodneſs, whom he did never caſt into ſuch Opinions? And if you had ſuch experi<g ref="char:EOLhyphen"/>ence of Gods goodneſs, and communion with him in the time of your former Faith, why have you then revolted from that Faith, which God by his Spirit hath ſo much witneſſed unto? But Siſter, you are a weak woman, and ignorant of the wiles of Satan, and may eaſily be lifted up; ſo that al<g ref="char:EOLhyphen"/>though I do hope that you had ſome true commu<g ref="char:EOLhyphen"/>nion with God, yet I do believe that it was exceed<g ref="char:EOLhyphen"/>ingly mixed with Spiritual pride, for which God hath been angry with you, and hath given you up to Hereſies, as was ſaid before. Some Chriſtians, by reaſon of their joys and raptures, have gotten lofty eyes, and eye-lids, highly lifted up above their brethren, cenſuring them, ſlighting, contemning them in compariſon of themſelves, which it may be have more true and real grace, in way of Humility and Mortification then they: They rejoyce not humbly, but in a proud ſingularity of communion and enlargements above others, and ſeem to them<g ref="char:EOLhyphen"/>ſelves
+<pb n="16" facs="tcp:117634:9"/>
+as Angels, in compariſon of others, great in their own conceits, not mourners in the ſenſe of their own filthineſs and indigency, nor thinking others better then themſelves. This God hateth and ab<g ref="char:EOLhyphen"/>horreth in all Chriſtians, and will ſurely puniſh it; humble therefore your ſelf for this ſin, and any o<g ref="char:EOLhyphen"/>ther, and be ſure that God in the way of returning will accept you. And indeed my hope is, That God hath ſuffered you to fall, that he might do you infi<g ref="char:EOLhyphen"/>nite good thereby, and bring you nearer, and more purely to himſelf then ever before, by purging your Spiritual pride, and making you the more humble all your life after; which God grant, for his tender Mercies ſake in Chriſt.</p>
+            <p>Secondly, <hi>It will be grievous to you to renounce that Society which hath furthered you in your new and horrid Opinions, crept in within you, and engaged you, and as it were adored you.</hi> But dear Siſter, have you ſo much reſpect to your new upſtart friends, and it may be with whoſe ſpirits you were never through<g ref="char:EOLhyphen"/>ly acquainted, as for their ſakes to neglect your old and ſure friends, your Father, Mother, Husband, Brothers, Siſter, Uncles, and all the reſt? But if they are in Error, as I have ſhewed them to be, will you follow them to Hell? I pray you harden your face againſt them as braſs, and ſet your countenance as iron; and be not ſo weak, and childiſh, and flexible, as to yield to your own deſtruction: ſay as that worthy Convert did, unto his following old ſociety, when he turning, ſaid, <hi>Ego non ſum Ego,</hi> I am not the man that I was.</p>
+            <p>Thirdly, this will be another block in the way,
+<pb n="17" facs="tcp:117634:9"/>
+               <hi>That your Opinions are in print.</hi> But Siſter, (alas, alas) by reaſon of your Book, you are (as I am credibly informed) printed by Name in the Catalogue of the Heretiques of this time, as one of the infamous A<g ref="char:EOLhyphen"/>poſtates: Redeem your name and credit amongſt Saints, which now is loſt, by proteſting againſt that horrid Book, and by humbling your ſelf for an at<g ref="char:EOLhyphen"/>tempt above your gifts and Sex.</p>
+            <p>Fourthly, there is yet another block or hindrance to your return, which I doubt will be ſtronger then any before-mentioned, whereby Satan hath you as it were in chains of iron, and hopeth ſo to hold you, that you ſhall never be able to get out: But yet the Lord Jeſus Chriſt is able to break the fetters of iron, and chains of braſs; and therefore hoping in his Mercy, I will ſay ſomething: Satan will tell you, dear Siſter, That <hi>Your Opinions are up<g ref="char:EOLhyphen"/>on your Conſcience, and you have given way unto them upon Conſcience, and you have had long, and ſweet, and heavenly raptures in the way of them, and have put off thereby all your former doubts, and fears, and ſervility: Will you deny your Opinions ſo long pro<g ref="char:EOLhyphen"/>feſſed? will you go againſt your Conſcience therein, at leaſt with a doubting Conſcience? will you return to your former fears and ſlaveries, and call again your ſtate into queſtion? Will you now become a creeper, who were in way of your Opinions advanced unto Hea<g ref="char:EOLhyphen"/>ven? yea, Will you now become meaner and lower then the meaner ſort of Chriſtians, by profeſsing your ſelf to have all this while been miſcarried and miſguided by an evil Spirit?</hi> O Siſter, you have gone by fancy
+<pb n="18" facs="tcp:117634:10"/>
+and not by Reaſon, by an ungrounded apprehenſion and not by Scripture, by a Conſcience without a Rule, made by Conceit, and not by the Word of God; ground your conſcience by the word, and har<g ref="char:EOLhyphen"/>den your Spirit like ſteel, to break that conſcience that hath been grounded upon vanity, upon conceit, and fancy and imagination, upon which you did not ground your conſcience before you fell, neither your worthy Father, nor any of the holy Martyrs, which are ſurely gone to Heaven, as the <hi>Apocalyps</hi> doth teſtifie. All Scriptures are evidently againſt you, and the profeſſion of all the Church before you: If Satan hath made his pills of death ſweet unto you, and hath covered them with delight, and made you vainly to believe, That it is God and Chriſt that dwelleth in you, working ſuch heavenly refreſhments, will you take them down unto your deſtruction? The longer you have yielded, ſo much the more haſty be to break off, leſt you be confirm<g ref="char:EOLhyphen"/>ed in a pernicious way: Fear not to return to the truth; it is better to go in way of truth with ſome doubts and fears, then in way of Hereſie to periſh: And the more low and mean Chriſtian you ſhall be in your own eyes, the higher ſhall you be in the eyes of God, and of all good Chriſtians. Some haſte too faſt in putting off their fears; let God put them off in way of truth and Scripture, or not at all: It is often beſt for Chriſtians to be under ſome fears, that they may be humble, that they may fight, and overcome, and be crowned; that in way of Morti<g ref="char:EOLhyphen"/>fication, <hi>they may make their Calling and Election
+<pb n="19" facs="tcp:117634:10"/>
+ſure;</hi> and if you ſhall return, all Saints will meet you, and rejoyce with you, yea the Angels will rejoyce for you, and Chriſt himſelf, <hi>For this my childe was dead, but ſhe is alive again; ſhe was loſt, but ſhe is found again.</hi>
+            </p>
+            <p>Fifthly, Satan may ſay unto you, that <hi>If you ſhall renounce your Opinions, you ſhall have no ground to ſtand upon, you ſhall juſtly queſtion whether you had ever Grace or no, you ſhall deſpair.</hi> But Siſter, you had well-grounded Aſſurance before you fell into theſe Errors; I am witneſs my ſelf thereof, to whom you writ to that effect. A Saint may fall, and groſly be deceived for a time, onely he ſhall return again; he may not be dead, but aſleep onely: So I do per<g ref="char:EOLhyphen"/>ſwade my ſelf of you, though I have written ſome<g ref="char:EOLhyphen"/>what roughly, to awaken you the more. O that I might hear that you were returned; you have no cauſe to deſpair, but onely to be humbled: and this I hope is the onely end of the Divine permiſſion. Return to your former Principles, dear Siſter, with confeſſion and repentance, therein live and dye, and I doubt not but that you ſhall live with Chriſt for ever; but if you never had grace, yet there is no cauſe of deſpairing, foraſmuch as grace is freely of<g ref="char:EOLhyphen"/>fered at all times to them that do come in by Faith and true Repentance, through the blood of Chriſt; onely it muſt be ſuch a Faith, and ſuch a Repen<g ref="char:EOLhyphen"/>tance, whereby we cleave to God in Chriſt, as the chiefeſt good, and in the way of ſincere endeavor of all Obedience, and of forſaking every oppoſite thing.</p>
+            <p>
+               <pb n="20" facs="tcp:117634:11"/>
+You cannot now but take ſo large a Letter, from a Brother, ſo defective and weak in ſight, and ſo much otherwiſe employed, to be an Argument of great deſire of the welfare of your ſoul, and of the importance and neceſſity of your condition. The Lord God grant, for Chriſts ſake, that my labor may not be in vain. Salute all my friends as named, my dear Brother your Husband; thanking you for all kindeneſſes, I reſt,</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Newbury, Novem.</hi> 1648.</date>
+               </dateline>
+               <signed>
+                  <hi>Your loving Brother,</hi> THO: PARKER.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:117634:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
